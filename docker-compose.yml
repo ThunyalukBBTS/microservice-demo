@@ -32,7 +32,7 @@ services:
     volumes:
       - ./backend:/app:cached
       - /app/node_modules
-    command: npm start
+    command: npm run start:prod
     restart: unless-stopped
 
   frontend:
