@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:ThunyalukBBTS/microservice-frontend-demo.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:ThunyalukBBTS/microservice-backend-demo.git
